@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15.999999"
+   height="15.999999"
+   viewBox="0 0 4.2333331 4.2333331"
+   version="1.1"
+   id="svg10352"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="46.437503"
+     inkscape:cx="7.4185729"
+     inkscape:cy="8.1722741"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1600"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10352" />
+  <defs
+     id="defs10346">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient284">
+      <stop
+         style="stop-color:#3584e4;stop-opacity:1;"
+         offset="0"
+         id="stop280" />
+      <stop
+         style="stop-color:#3584e4;stop-opacity:0;"
+         offset="1"
+         id="stop282" />
+    </linearGradient>
+    <linearGradient
+       y2="246.77144"
+       x2="2234.5117"
+       y1="56.488281"
+       x1="2234.5117"
+       gradientTransform="matrix(0.01693333,0,0,0.01693333,51.356381,82.594754)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient10331"
+       xlink:href="#linearGradient1970" />
+    <linearGradient
+       id="linearGradient1970">
+      <stop
+         id="stop1966"
+         offset="0"
+         style="stop-color:#9df5ce;stop-opacity:1;" />
+      <stop
+         id="stop1968"
+         offset="1"
+         style="stop-color:#63d4c3;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient284"
+       id="radialGradient286"
+       cx="88.359352"
+       cy="85.961945"
+       fx="88.359352"
+       fy="85.961945"
+       r="2.1166666"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.6330492,1.0539453e-4,0,-3.1745058,323.46824,356.92448)" />
+  </defs>
+  <metadata
+     id="metadata10349">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="stroke-width:1.33333"
+     id="layer1"
+     transform="matrix(0.74999998,0,0,0.74999998,-64.785118,-61.950297)">
+    <rect
+       style="display:inline;fill:url(#radialGradient286);fill-opacity:1;stroke-width:0.705556;stroke-linecap:round;stroke-linejoin:round"
+       id="rect10329"
+       width="4.2333331"
+       height="4.2333331"
+       x="87.085716"
+       y="83.305954"
+       rx="44.097225"
+       ry="44.097225" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.175px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+     x="1.3229173"
+     y="2.9548666"
+     id="text342"><tspan
+       sodipodi:role="line"
+       id="tspan340"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.175px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="1.3229173"
+       y="2.9548666">n</tspan></text>
+</svg>
